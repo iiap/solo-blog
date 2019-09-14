@@ -10,11 +10,11 @@ iiap 的个人博客
 
 ### 最新
 
-* [vim 快捷操作](http://lizilake.com/articles/2019/09/14/1568397706194.html)
-* [Shell编程基础语法](http://lizilake.com/articles/2019/09/14/1568397655319.html)
-* [freeswitch常用命令](http://lizilake.com/articles/2019/09/14/1568397601584.html)
-* [Eclipse常用快捷键](http://lizilake.com/articles/2019/09/14/1568397548409.html)
-* [java学习笔记一](http://lizilake.com/articles/2019/09/14/1568397485304.html)
+* [vim 快捷操作](https://lizilake.com/articles/2019/09/14/1568397706194.html)
+* [Shell编程基础语法](https://lizilake.com/articles/2019/09/14/1568397655319.html)
+* [freeswitch常用命令](https://lizilake.com/articles/2019/09/14/1568397601584.html)
+* [Eclipse常用快捷键](https://lizilake.com/articles/2019/09/14/1568397548409.html)
+* [java学习笔记一](https://lizilake.com/articles/2019/09/14/1568397485304.html)
 
 
 
